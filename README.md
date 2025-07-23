@@ -1,2 +1,6 @@
-# Stake.com-A.I-predictor-bot
-An intelligent Predictor Bot tailored for Stake.com’s Crash and Mines games. It uses pattern-recognition algorithms to help forecast the next round, aiming to improve decision-making and lower risk. https://betbot.store
+- Algorithms & heuristics – often analyzing past game results to estimate next moves.
+- Target games – mainly Crash and Mines, with some tools covering Dice, Plinko, or generalized “casino” strategies.
+- Tech stack – mostly C#, Python, or Batch scripts.
+- Educational use only – these projects typically carry disclaimers that they’re for learning and might violate terms of service.
+-
+- https://betbot.store
